@@ -8,7 +8,7 @@ Costruisco applicazioni con l'AI generativa partendo dal problema reale: prima i
 ## 🧠 Progetti
 | Progetto | Cosa fa | Tecnologie |
 |---|---|---|
-| **AirNose** (2026) | Piattaforma AI per le patologie naso-sinusali, realizzata per il Policlinico di Palermo: screening a distanza dei pazienti, raccomandazioni AI approvate dal medico (human-in-the-loop). [Demo](https://medix.lovable.app) | Gemini, Infermedica, Lovable |
+| **AirNose** (2026) | Piattaforma AI per le patologie naso-sinusali, realizzata per il Policlinico di Palermo: screening a distanza dei pazienti, raccomandazioni AI approvate dal medico (human-in-the-loop). [Demo](https://airnose.lovable.app/) | Gemini, Infermedica, Lovable |
 | **Agente AI per la finanza agevolata** (in corso) | Agente che trova i bandi adatti a un'impresa e calcola il contributo, con strumenti Python e chat con memoria | Python, LangGraph, LangChain, Gemini, tool calling |
 | **PLVS VLTRA** | App Android di dieta e allenamento con AI: output vincolato a schemi JSON, fallback tra modelli (codice privato) | Python, FastAPI, Gemini, Pydantic |
 | **EcoRecycle AI** | Riconosce un oggetto dalla webcam e indica come smaltirne ogni parte nella raccolta differenziata | Python, OpenCV, Gemini Vision, Pydantic |
