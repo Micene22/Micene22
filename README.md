@@ -10,7 +10,7 @@ Costruisco applicazioni con l'AI generativa partendo dal problema reale: prima i
 |---|---|---|
 | **AirNose** (2026) | Piattaforma AI per le patologie naso-sinusali, realizzata per il Policlinico di Palermo: screening a distanza dei pazienti, raccomandazioni AI approvate dal medico (human-in-the-loop). [Demo](https://airnose.lovable.app/) | Gemini, Infermedica, Lovable |
 | **Agente AI per la finanza agevolata** (in corso) | Agente che trova i bandi adatti a un'impresa e calcola il contributo, con strumenti Python e chat con memoria | Python, LangGraph, LangChain, Gemini, tool calling |
-| **PLVS VLTRA** | App Android di dieta e allenamento con AI: output vincolato a schemi JSON, fallback tra modelli (codice privato) | Python, FastAPI, Gemini, Pydantic |
+| **PLVS VLTRA** | App Android e web di dieta e allenamento con AI: schede e diete generate sul profilo, import della scheda del PT da foto/PDF, analisi video della tecnica, output vincolato a schemi JSON e verificato dal codice, fallback tra modelli. Nata con backend Python, poi migrata su Supabase con account (codice privato) | Gemini, Next.js, Capacitor, Supabase · prima versione: Python, FastAPI, Pydantic |
 | **EcoRecycle AI** | Riconosce un oggetto dalla webcam e indica come smaltirne ogni parte nella raccolta differenziata | Python, OpenCV, Gemini Vision, Pydantic |
 | [**GestionaleMagazzino**](https://github.com/Micene22/GestionaleMagazzino) | Gestionale di magazzino con report delle vendite | Python, Tkinter, Pandas, Matplotlib |
 
